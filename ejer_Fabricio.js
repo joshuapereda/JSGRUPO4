@@ -1,2 +1,2 @@
-let name = "Fabricio"
-console.log("Hola mundo hecho por"+ Fabricio+ ":D");
+let nombre = "Fabricio"
+console.log("Hola mundo hecho por"+ nombre+ ":D");
